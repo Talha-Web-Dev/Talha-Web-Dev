@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology
-💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications
-⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development
-📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts
-🌱 Currently learning advanced full-stack development and modern frameworks
-🤝 Open to internships, freelance work, and collaborative projects
+-🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology
+-💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications
+-⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development
+-📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts
+-🌱 Currently learning advanced full-stack development and modern frameworks
+-🤝 Open to internships, freelance work, and collaborative projects
 
 ---
 
