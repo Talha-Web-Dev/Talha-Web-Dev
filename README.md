@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
--🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology
--💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications
--⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development
--📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts
--🌱 Currently learning advanced full-stack development and modern frameworks
--🤝 Open to internships, freelance work, and collaborative projects
+🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology
+💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications
+⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development
+📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts
+🌱 Currently learning advanced full-stack development and modern frameworks
+🤝 Open to internships, freelance work, and collaborative projects
 
 ---
 
@@ -213,20 +213,6 @@ Console-based Java application implementing OOP concepts and library management 
 * 🇵🇰 Urdu — Native
 * 🗣️ Punjabi — Conversational
 * 🗣️ Pashto — Conversational
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ItsTalhaJamil&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsTalhaJamil&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsTalhaJamil&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
