@@ -24,7 +24,14 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology<br>💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications<br>⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development<br>📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts<br>🌱 Currently learning advanced full-stack development and modern frameworks<br>🤝 Open to internships, freelance work, and collaborative projects
 
+# Portfolio
+<p align="left">
+<a href="https://talha-portfolio-pi-two.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1XdKEqxoYS/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_talhamughal?igsh=MWMxdnUwZG5keDlidw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/talha-jameel-a56962384) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@its_talhamughal?_r=1&_t=ZS-93rh8ZJw6dA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@mughaltalha662) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mughaltalha662@gmail.com) 
 
@@ -75,27 +82,7 @@ Here are some ideas to get you started:
 
 ---
 [![](https://komarev.com/ghpvc/?username=Talha-Web-Dev&icon=0&color=1)](https://visitcount.itsvg.in)
-# 🌐 Connect With Me
 
-<p align="left">
-<a href="mailto:mughaltalha662@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ItsTalhaJamil">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/talha-jameel-a56962384">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://talha-portfolio-pi-two.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
----
 # 📚 Education
 
 🎓 **Bachelor of Science in Computer Science (BSCS)**
