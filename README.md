@@ -12,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Talha Jameel
+
+### 💻 BS Computer Science Student | Front-End Web Developer | Software Developer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;React.js+Developer;C%23+%7C+Java+%7C+C%2B%2B+Programmer;Building+Modern+Responsive+Applications;Passionate+About+Software+Development" alt="Typing SVG" />
+</p>
+
+---
 # 💫 About Me:
 🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology<br>💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications<br>⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development<br>📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts<br>🌱 Currently learning advanced full-stack development and modern frameworks<br>🤝 Open to internships, freelance work, and collaborative projects
 
@@ -30,15 +39,6 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=Talha-Web-Dev&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 👋 Hi, I'm Talha Jameel
-
-### 💻 BS Computer Science Student | Front-End Web Developer | Software Developer
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;React.js+Developer;C%23+%7C+Java+%7C+C%2B%2B+Programmer;Building+Modern+Responsive+Applications;Passionate+About+Software+Development" alt="Typing SVG" />
-</p>
-
----
 
 ## 🚀 About Me
 
