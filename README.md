@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Talha Jameel 👋
+
+## About Me
+- BS Computer Science Student at FUUAST
+- Frontend Web Developer
+- Learning React JS and .NET Development
+- Interested in Databases and Software Engineering
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React JS
+- C++
+- Oracle Database
+- Git & GitHub
+
+## Current Learning
+- Advanced React
+- APIs
+- Full Stack Development
+
+## Contact
+- Email: mughaltalha662@gmail.com
+- 
