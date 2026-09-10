@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Talha Jameel
 
-### BS Computer Science Student |MERN Web Developer | Software Developer
+### MERN Web Developer | BS Computer Science Student  | Software Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;React.js+Developer;C%23+%7C+Java+%7C+C%2B%2B+Programmer;Building+Modern+Responsive+Applications;Passionate+About+Software+Development" alt="Typing SVG" />
