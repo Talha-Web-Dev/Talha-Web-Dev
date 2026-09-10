@@ -32,7 +32,7 @@ BSCS Student at Federal Urdu University of Arts, Science and Technology<br> Pass
 </p>
 
 ---
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1XdKEqxoYS/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_talhamughal?igsh=MWMxdnUwZG5keDlidw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/talha-jameel-a56962384) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@its_talhamughal?_r=1&_t=ZS-93rh8ZJw6dA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@mughaltalha662) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mughaltalha662@gmail.com) 
 
 
@@ -98,15 +98,15 @@ Government Islamia Graduate College Civil Lines Lahore
  **Matriculation in Computer Science**
 Government Boys High School Khayaban-e-Sir Syed Sector 2
  2020 – 2022
-⭐ Grade: B
+ Grade: B
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
-## 🌐 Freelance Web Developer
+##  Freelance Web Developer
 
-📅 2026 – Present
+ 2026 – Present
 
 * Developed responsive and modern web applications
 * Built user-friendly interfaces using HTML, CSS, JavaScript, and ReactJS
@@ -116,9 +116,9 @@ Government Boys High School Khayaban-e-Sir Syed Sector 2
 
 ---
 
-## 🏢 Senior Verifier — Mars BPO 2.0
+##  Senior Verifier — Mars BPO 2.0
 
-📅 2025 – 2026
+ 2025 – 2026
 
 * Ensured data accuracy and quality standards
 * Collaborated with team members to achieve targets
@@ -126,9 +126,9 @@ Government Boys High School Khayaban-e-Sir Syed Sector 2
 
 ---
 
-## ☎️ Customer Service Representative — Emmzee Communication
+##  Customer Service Representative — Emmzee Communication
 
-📅 2021 – 2022
+ 2021 – 2022
 
 * Managed customer interactions professionally
 * Resolved customer issues and maintained records
@@ -136,24 +136,24 @@ Government Boys High School Khayaban-e-Sir Syed Sector 2
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
-🏆 **Web Development Certificate** — Bano Qabil
+ **Web Development Certificate** — Bano Qabil
 
-🏆 **Taekwondo Certificate** — Government Islamia Graduate College Civil Lines Lahore
+ **Taekwondo Certificate** — Government Islamia Graduate College Civil Lines Lahore
 
 ---
 
-# 🌍 Languages
+#  Languages
 
 * 🇬🇧 English — Fluent
 * 🇵🇰 Urdu — Native
-* 🗣️ Punjabi — Conversational
-* 🗣️ Pashto — Conversational
+*  Punjabi — Conversational
+*  Pashto — Conversational
 
 ---
 
-# 🎯 Career Objective
+#  Career Objective
 
 To secure a challenging role in software and web development where I can apply my technical skills, contribute to innovative projects, and continuously grow as a professional developer.
 
@@ -164,5 +164,5 @@ To secure a challenging role in software and web development where I can apply m
 </p>
 
 <p align="center">
-⭐ “Code. Learn. Build. Improve.” ⭐
+ “Code. Learn. Build. Improve.” 
 </p>
