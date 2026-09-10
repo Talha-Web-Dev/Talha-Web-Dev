@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Talha Jameel
+# Hi, I'm Talha Jameel
 
-### 💻 BS Computer Science Student | Front-End Web Developer | Software Developer
+### BS Computer Science Student |MERN Web Developer | Software Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;React.js+Developer;C%23+%7C+Java+%7C+C%2B%2B+Programmer;Building+Modern+Responsive+Applications;Passionate+About+Software+Development" alt="Typing SVG" />
 </p>
 
 ---
-# 💫 About Me:
-🎓 BSCS Student at Federal Urdu University of Arts, Science and Technology<br>💻 Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications<br>⚡ Skilled in ReactJS, JavaScript, C#, Java, C++, and Database Development<br>📚 Strong understanding of OOP, DBMS, DSA, and Software Development concepts<br>🌱 Currently learning advanced full-stack development and modern frameworks<br>🤝 Open to internships, freelance work, and collaborative projects
+# About Me:
+BSCS Student at Federal Urdu University of Arts, Science and Technology<br> Passionate Front-End Web Developer focused on creating modern, responsive, and scalable web applications<br> Skilled in ReactJS, NodeJs, MongoDB, ExpressJS, JavaScript, C#, Java, C++, and Database Development<br> Strong understanding of PF, OOP, DBMS, WT, ADBMS, DSA, OS, and Software Development concepts<br> Currently learning advanced full-stack development and modern frameworks<br> Open to Job, freelance work, and collaborative projects
 
 # Portfolio
 <p align="left">
@@ -37,21 +37,21 @@ Here are some ideas to get you started:
 
 
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js" />
 </p>
 
-## 🌐 Front-End Development
+##  Front-End Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-## 🗄️ Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Talha-Web-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Talha-Web-Dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Talha-Web-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -83,21 +83,21 @@ Here are some ideas to get you started:
 ---
 [![](https://komarev.com/ghpvc/?username=Talha-Web-Dev&icon=0&color=1)](https://visitcount.itsvg.in)
 
-# 📚 Education
+#  Education
 
-🎓 **Bachelor of Science in Computer Science (BSCS)**
+ **Bachelor of Science in Computer Science (BSCS)**
 Federal Urdu University of Arts, Science and Technology
-📅 2025 – Present
-⭐ Grade: A
+ 2025 – Present
+ Grade: A
 
-🎓 **FSc – Pre Engineering**
+ **FSc – Pre Engineering**
 Government Islamia Graduate College Civil Lines Lahore
-📅 2022 – 2024
-⭐ Grade: A
+ 2022 – 2024
+ Grade: A
 
-🎓 **Matriculation in Computer Science**
+ **Matriculation in Computer Science**
 Government Boys High School Khayaban-e-Sir Syed Sector 2
-📅 2020 – 2022
+ 2020 – 2022
 ⭐ Grade: B
 
 ---
