@@ -152,38 +152,6 @@ Government Boys High School Khayaban-e-Sir Syed Sector 2
 - Maintained professional relationships with customers
 
 
-#  Professional Experience
-
-##  Freelance Web Developer
-
- 2026 – Present
-
-* Developed responsive and modern web applications
-* Built user-friendly interfaces using HTML, CSS, JavaScript, and ReactJS
-* Customized websites according to client requirements
-* Used Git & GitHub for version control and project collaboration
-* Improved performance and responsiveness of websites
-
----
-
-##  Senior Verifier — Mars BPO 2.0
-
- 2025 – 2026
-
-* Ensured data accuracy and quality standards
-* Collaborated with team members to achieve targets
-* Strengthened analytical and communication skills
-
----
-
-##  Customer Service Representative — Emmzee Communication
-
- 2021 – 2022
-
-* Managed customer interactions professionally
-* Resolved customer issues and maintained records
-* Developed strong interpersonal and communication skills
-
 ---
 
 #  Certifications
@@ -196,8 +164,8 @@ Government Boys High School Khayaban-e-Sir Syed Sector 2
 
 #  Languages
 
-* 🇬🇧 English — Fluent
-* 🇵🇰 Urdu — Native
+*  English — Fluent
+*  Urdu — Native
 *  Punjabi — Conversational
 *  Pashto — Conversational
 
