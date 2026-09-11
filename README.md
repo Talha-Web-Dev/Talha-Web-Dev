@@ -96,6 +96,61 @@ Government Boys High School Khayaban-e-Sir Syed Sector 2
  Grade: B
 
 ---
+# Professional Experience
+
+## Freelance Web Developer
+**2026 – Present**
+
+- Developed responsive and modern web applications
+- Built user-friendly interfaces using HTML, CSS, JavaScript, and ReactJS
+- Customized websites according to client requirements
+- Used Git & GitHub for version control and project collaboration
+- Improved performance and responsiveness of websites
+
+---
+
+## MERN Stack / Web Developer — HA-TECHNOLOGIES
+**2025 – Present**
+
+- Built responsive full-stack web applications using MongoDB, Express.js, React.js, and Node.js
+- Developed scalable and user-friendly web applications
+- Created and integrated RESTful APIs
+- Worked with Git & GitHub for version control and collaboration
+- Improved application performance and responsiveness
+
+---
+
+## Senior Verifier — Mars BPO 2.0
+**2025 – 2026**
+
+- Ensured data accuracy and quality standards
+- Collaborated with team members to achieve targets
+- Strengthened analytical and communication skills
+- Verified and maintained accurate information
+- Followed quality and productivity standards
+
+---
+
+## Front-End Web Developer — SafeX Solutions
+**2024 – 2025**
+
+- Developed mobile-first, responsive user interfaces
+- Used HTML, CSS, JavaScript, and ReactJS
+- Created clean and user-friendly web interfaces
+- Improved website responsiveness and performance
+- Developed reusable front-end components
+
+---
+
+## Customer Service Representative — Emmzee Communication
+**2021 – 2022**
+
+- Managed customer interactions professionally
+- Resolved customer issues and maintained records
+- Provided effective customer support
+- Developed strong interpersonal and communication skills
+- Maintained professional relationships with customers
+
 
 #  Professional Experience
 
