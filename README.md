@@ -31,11 +31,7 @@ BSCS Student at Federal Urdu University of Arts, Science and Technology<br> Pass
 </a>
 </p>
 
-<p align="left">
-<a href="https://talha-portfolio-pi-two.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
+
 ---
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1XdKEqxoYS/)
