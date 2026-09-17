@@ -32,7 +32,7 @@ BSCS Student at Federal Urdu University of Arts, Science and Technology<br> Pass
 </p>
 
 <p align="left">
-<a href="[https://talha-portfolio-pi-two.vercel.app](https://web-development-projects-rho.vercel.app/)">
+<a href="https://talha-portfolio-pi-two.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
